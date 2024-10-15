@@ -24,5 +24,5 @@ This repository contains Python notebooks for implementing and evaluating deep l
 Future improvements may include hyperparameter tuning, experimenting with different architectures, and integrating additional techniques for enhanced model performance.
 
 ## Links
-- ResNet50 Notebook: [ResNet50-Notebook.ipynb](link-to-your-resnet-notebook)
+- ResNet50 Notebook: [ResNet50-Notebook.ipynb](https://github.com/archana-balag/Pneumonia-Detection-Models/blob/main/RESNET50Optimized(final).ipynb)
 - VGG16 Notebook: [VGG16-Notebook.ipynb](link-to-your-vgg-notebook)
