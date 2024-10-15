@@ -25,4 +25,4 @@ Future improvements may include hyperparameter tuning, experimenting with differ
 
 ## Links
 - ResNet50 Notebook: [ResNet50-Notebook.ipynb](https://github.com/archana-balag/Pneumonia-Detection-Models/blob/main/RESNET50Optimized(final).ipynb)
-- VGG16 Notebook: [VGG16-Notebook.ipynb](link-to-your-vgg-notebook)
+- VGG16 Notebook: [VGG16-Notebook.ipynb](https://github.com/archana-balag/Pneumonia-Detection-Models/blob/main/VGG-Optimized.ipynb)
